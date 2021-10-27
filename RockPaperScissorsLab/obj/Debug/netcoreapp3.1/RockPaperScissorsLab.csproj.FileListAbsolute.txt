@@ -1,0 +1,14 @@
+C:\Users\PConrad\source\repos\RockPaperScissorsLab\RockPaperScissorsLab\obj\Debug\netcoreapp3.1\RockPaperScissorsLab.csproj.AssemblyReference.cache
+C:\Users\PConrad\source\repos\RockPaperScissorsLab\RockPaperScissorsLab\obj\Debug\netcoreapp3.1\RockPaperScissorsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PConrad\source\repos\RockPaperScissorsLab\RockPaperScissorsLab\obj\Debug\netcoreapp3.1\RockPaperScissorsLab.AssemblyInfoInputs.cache
+C:\Users\PConrad\source\repos\RockPaperScissorsLab\RockPaperScissorsLab\obj\Debug\netcoreapp3.1\RockPaperScissorsLab.AssemblyInfo.cs
+C:\Users\PConrad\source\repos\RockPaperScissorsLab\RockPaperScissorsLab\obj\Debug\netcoreapp3.1\RockPaperScissorsLab.csproj.CoreCompileInputs.cache
+C:\Users\PConrad\source\repos\RockPaperScissorsLab\RockPaperScissorsLab\bin\Debug\netcoreapp3.1\RockPaperScissorsLab.exe
+C:\Users\PConrad\source\repos\RockPaperScissorsLab\RockPaperScissorsLab\bin\Debug\netcoreapp3.1\RockPaperScissorsLab.deps.json
+C:\Users\PConrad\source\repos\RockPaperScissorsLab\RockPaperScissorsLab\bin\Debug\netcoreapp3.1\RockPaperScissorsLab.runtimeconfig.json
+C:\Users\PConrad\source\repos\RockPaperScissorsLab\RockPaperScissorsLab\bin\Debug\netcoreapp3.1\RockPaperScissorsLab.runtimeconfig.dev.json
+C:\Users\PConrad\source\repos\RockPaperScissorsLab\RockPaperScissorsLab\bin\Debug\netcoreapp3.1\RockPaperScissorsLab.dll
+C:\Users\PConrad\source\repos\RockPaperScissorsLab\RockPaperScissorsLab\bin\Debug\netcoreapp3.1\RockPaperScissorsLab.pdb
+C:\Users\PConrad\source\repos\RockPaperScissorsLab\RockPaperScissorsLab\obj\Debug\netcoreapp3.1\RockPaperScissorsLab.dll
+C:\Users\PConrad\source\repos\RockPaperScissorsLab\RockPaperScissorsLab\obj\Debug\netcoreapp3.1\RockPaperScissorsLab.pdb
+C:\Users\PConrad\source\repos\RockPaperScissorsLab\RockPaperScissorsLab\obj\Debug\netcoreapp3.1\RockPaperScissorsLab.genruntimeconfig.cache
